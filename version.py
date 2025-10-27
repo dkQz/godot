@@ -1,3 +1,4 @@
+#versions.py
 short_name = "godot"
 name = "Godot Engine"
 major = 4
